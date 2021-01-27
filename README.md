@@ -13,7 +13,7 @@ library to automate a browser, test your frontend behaviour, simulate human
 actions or whatever you want.
 
 It's named after [Etaoin Shrdlu][url-wiki] -- a typing machine that became alive
-after a mysteries note was produced on it.
+after a mysterious note was produced on it.
 
 ## Release Notes
 
